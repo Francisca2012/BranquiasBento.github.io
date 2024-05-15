@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Branquias',
+	name: 'John',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: true,
+	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Buenas mañanas! UwU,',
-	greetingAfternoon: 'Buenas siestas!,',
-	greetingEvening: 'Buenas tardes!,',
-	greetingNight: 'Buenos loletes!',
+	greetingMorning: 'Good morning!',
+	greetingAfternoon: 'Good afternoon,',
+	greetingEvening: 'Good evening,',
+	greetingNight: 'Go to Sleep!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -61,31 +61,31 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://outlook.live.com/mail/0/',
+			link: 'https://mail.protonmail.com/',
 		},
 		{
 			id: '3',
+			name: 'Todoist',
+			icon: 'trello',
+			link: 'https://todoist.com',
+		},
+		{
+			id: '4',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
+		},
+		{
+			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '4',
-			name: 'Twitch',
-			icon: 'twitch',
-			link: 'https://www.twitch.tv/teshrak',
-		},
-		{
-			id: '5',
-			name: 'Imgur',
-			icon: 'image',
-			link: 'https://imgur.com/user/Branquias/posts,'
-		},
-		{
 			id: '6',
-			name: 'Youtube',
+			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			link: 'https://odysee.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Mi mix',
-					link: 'https://www.youtube.com/watch?v=od4QcDPpNVk&list=RDod4QcDPpNVk&start_radio=1',
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Rhythm Games',
-					link: 'https://www.youtube.com/playlist?list=PLgSKOHC_beFnsC7ffgBUFlMyVy-WtJZIC',
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Miku',
-					link: 'https://www.youtube.com/playlist?list=PLgSKOHC_beFn9MQKOSpU7lLEXt-UyX6NV',
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Digimon',
-					link: 'https://www.youtube.com/playlist?list=PLgSKOHC_beFm7u12_Kj1RTvS048URPRrs',
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Branquias Post',
-					link: 'https://imgur.com/user/Branquias/posts',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Pecera',
-					link: 'https://pecerabranquias.wordpress.com/,
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Discord Fran',
-					link: 'https://discord.com/channels/@me',
+					name: 'Trello',
+					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Teshrak',
-					link: 'https://www.twitch.tv/teshrak',
+					name: 'Slack',
+					link: 'https://www.slack.com',
 				},
 			],
 		},
