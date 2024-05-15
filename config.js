@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Imgur',
-			icon: 'imgur',
+			icon: 'images',
 			link: 'https://imgur.com/user/Branquias/posts/',
 		},
 		{
