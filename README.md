@@ -33,6 +33,8 @@
 
 ## 🚀 Usage
 
+RECUERDA usa config.js para cambiar los parametros, usa los iconos de Lucide.dev
+
 ### 🏡 As Home Page
 
 1. Fork this repo
