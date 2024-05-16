@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/Francisca2012/BranquiasBento.github.io',
 		},
 		{
 			id: '2',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Imgur',
-			icon: 'images',
-			link: 'https://imgur.com/user/Branquias/posts/',
+			name: '7tv',
+			icon: 'smile-plus',
+			link: 'https://7tv.app/users/6327b44762b7fa7646cabb1b',
 		},
 		{
 			id: '6',
