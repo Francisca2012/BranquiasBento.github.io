@@ -18,7 +18,7 @@
 
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
-  --sfg: #ffbf34; /* Sceondary Foreground color */
+  --sfg: #3f0075; /* Sceondary Foreground color */
 
   /* Light Colors  */
   --accent: #f9dd6e; /* Hover color */
@@ -41,7 +41,7 @@
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
-  --sfg: #ffbf34; /* Secondary Foreground color */
+  --sfg: #3f0075; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
