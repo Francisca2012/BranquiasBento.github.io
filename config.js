@@ -144,11 +144,11 @@ const CONFIG = {
 				},
 				{
 					name: 'Rhythm Games',
-					link: 'https://www.youtube.com/playlist?list=PLgSKOHC_beFnsC7ffgBUFlMyVy-WtJZIC/',
+					link: 'https://www.youtube.com/watch?v=OPS2LwoS6pA&list=PLgSKOHC_beFnsC7ffgBUFlMyVy-WtJZIC&index=30',
 				},
 				{
 					name: 'Miku',
-					link: 'https://www.youtube.com/playlist?list=PLgSKOHC_beFn9MQKOSpU7lLEXt-UyX6NV/',
+					link: 'https://www.youtube.com/watch?v=78SmXHkkTEU&list=PLgSKOHC_beFn9MQKOSpU7lLEXt-UyX6NV&index=83',
 				},
 				{
 					name: 'Digimon',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://discord.com/channels/@me',
 				},
 				{
-					name: 'TeshVaporeon',
-					link: 'https://www.twitch.tv/teshrak',
+					name: 'OPGG',
+					link: 'https://op.gg/es/lol/summoners/lan/Branquias-YEMA',
 				},
 			],
 		},
