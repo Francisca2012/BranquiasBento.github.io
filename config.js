@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Branquias',
 	imageBackground: false,
-	openInNewTab: false,
+	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://outlook.live.com/mail/0/',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: '7tv',
 			icon: 'smile-plus',
-			link: 'https://7tv.app/users/6327b44762b7fa7646cabb1b',
+			link: 'https://7tv.app/users/01GD9HGDAR00065DZTES3CNERV/uploaded',
 		},
 		{
 			id: '6',
